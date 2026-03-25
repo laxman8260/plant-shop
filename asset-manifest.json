@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/plant-shop/static/js/main.e838176f.js",
+    "index.html": "/plant-shop/index.html",
+    "main.e838176f.js.map": "/plant-shop/static/js/main.e838176f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e838176f.js"
+  ]
+}
